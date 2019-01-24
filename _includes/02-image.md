@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a pretty candle display] (/home/ruth/Downloads/IMG_20190123_211000_843.jpg)
